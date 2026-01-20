@@ -1,6 +1,7 @@
 
 <h1 align="left">🧑‍💻 Daniel Gabriel</h1>
 
+**Estudandte**
 ###
 
 <div align="left">
