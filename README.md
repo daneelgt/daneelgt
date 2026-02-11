@@ -1,9 +1,7 @@
 
 <h1 align="left">🧑‍💻 Daniel Gabriel</h1>
 💻 Desenvolvedor em formação | Full Stack
-
 ☕ Focado em Java
-
 🚀 Em constante evolução para me tornar um grande desenvolvedor
 
 ###
