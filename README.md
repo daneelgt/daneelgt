@@ -1,6 +1,6 @@
 ```Java
-#Oi! Meu nome e Daniel!
-#Em constante evolução para me tornar um grande desenvolvedor 😀
+// Oi! Meu nome e Daniel!
+// Em constante evolução para me tornar um grande desenvolvedor 😀
 
 
 print("Hello, World!")
