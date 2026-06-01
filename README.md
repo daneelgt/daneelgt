@@ -5,11 +5,7 @@
 
 public class HelloWorld {                
     public static void main(String[] args) { 
-        falar("Olá, Mundo!");
-    }
-
-    public static void print(String falar){
-        System.out.println(falar)
+        System.out.println("Olá, Mundo!");
     }
 }
 
