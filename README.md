@@ -6,7 +6,12 @@
 public class Desenvolvedor {
     private final String nome = "Daniel Gabriel";
     private final String cargo = "Back-end Developer";
-    private final List<String> techStack = Arrays.asList("Java", "Python", "JavaScript", "Spring Boot", "Docker", "Linux");
+    private final List<String> techStack = Arrays.asList("Java",
+                                                         "Python",
+                                                         "JavaScript",
+                                                         "Spring Boot",
+                                                         "Docker",
+                                                         "Linux");
 
     public void exibirPerfil() {
         System.out.println("Dev: " + nome + " | Cargo: " + cargo);
